@@ -28,6 +28,11 @@ export const metadata: Metadata = {
     "software engineer",
     "portfolio",
   ],
+  icons: {
+    icon: "R.png", // Path to your favicon
+    shortcut: "R.png",
+    apple: "R.png", // For Apple devices
+  },
   openGraph: {
     title: "Rohini Portfolio",
     description:
