@@ -24,7 +24,7 @@ export default function Works() {
     {
       title: "Travel-Trek",
       gitLink: "https://github.com/MolletiRohini80/TRAVEL-TREK.git",
-      liveLink: "https://travel-treck-website-9dk5cbjr8-sanjay-bandarus-projects.vercel.app/mainPage.html ",
+      liveLink: "trektravelwebsite.netlify.app ",
       about:
         "Travel Trek is a travel website built with HTML, CSS, and JavaScript, designed to make travel planning easier and more enjoyable for users. The platform offers two main features: travel suggestions based on seasons and states. Users can select a season, and the website recommends popular destinations for that time of year. Alternatively, users can choose a state and explore famous places, food, temples, and nearby attractions. If they select a destination, the site also suggests nearby places to visit, local cuisine, and resorts. ",
       stack: ["HTML","CSS", "JavaScript"],
