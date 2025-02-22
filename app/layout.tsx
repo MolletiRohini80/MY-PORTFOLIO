@@ -7,7 +7,7 @@ import "./globals.css";
 import Header from "./components/header-section/Header";
 import { ViewProvider } from "@/contexts/ViewContext";
 
-const kumbhSans = Kumbh_Sans({ subsets: ["latin"] });
+const kumbhSans = Kumbh_Sans({ subsets: ["latin"] }); 
 
 export const metadata: Metadata = {
   title: "Rohini Portfolio",
