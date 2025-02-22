@@ -13,32 +13,32 @@ export default function Works() {
 
   const works = [
     {
-      title: "Offset Africa",
-      // gitLink: "https://github.com/adex-hub/url-shortening-api-landing",
+      title: "Bus-Tracking Application",
+      gitLink: "https://github.com/MolletiRohini80/BUS-IN-OUT.git",
       liveLink: "https://offsetcomms.africa/",
       about:
-        "Offset Communications Africa’s website really allows them to stand out in the PR sector. It shows their works and case studies — highlighting their expertise and educating users about the company philosophy.",
-      stack: ["next.js", "typescript", "framer motion", "tailwindcss"],
-      img: "/offset-folio.svg",
+        "Your bus tracking project is a real-time system built with ReactJS and Vite, designed to track bus arrivals and departures at your college gate. It includes a student count graph and a pie chart for data visualization. The project features a responsive design, optimized for various screen sizes, with smooth animations and a clean, scroll-free UI. It highlights your skills in full-stack development, responsive design, and data visualization.",
+      stack: ["React", "JavaScript", "NodeJS", "ExpressJS","MERN"],
+      img: "/Bus.png",
     },
     {
-      title: "Shortly",
-      gitLink: "https://github.com/adex-hub/url-shortening-api-landing",
-      liveLink: "https://lnk-shortener.netlify.app/",
+      title: "Travel-Trek",
+      gitLink: "https://github.com/MolletiRohini80/TRAVEL-TREK.git",
+      liveLink: "https://travel-treck-website-9dk5cbjr8-sanjay-bandarus-projects.vercel.app/mainPage.html ",
       about:
-        "A link shortener for a fictional company that effectively shortens links and stores them. No matter how many links you shorten, you can revisit the site anytime to view and manage your previously shortened links.",
-      stack: ["next.js", "typescript", "framer motion", "tailwindcss"],
-      img: "/shortly.svg",
+        "Travel Trek is a travel website built with HTML, CSS, and JavaScript, designed to make travel planning easier and more enjoyable for users. The platform offers two main features: travel suggestions based on seasons and states. Users can select a season, and the website recommends popular destinations for that time of year. Alternatively, users can choose a state and explore famous places, food, temples, and nearby attractions. If they select a destination, the site also suggests nearby places to visit, local cuisine, and resorts. ",
+      stack: ["HTML","CSS", "JavaScript"],
+      img: "/Travel.png",
     },
-    {
-      title: "Where in the world",
-      gitLink: "https://github.com/adex-hub/where-in-the-world",
-      liveLink: "https://where-in-the-world-ade.netlify.app/",
-      about:
-        "A fun tool for checking information about any country in the world such as the country’s native name, currency, population,  border countries etc. It features dynamic routing for each country and theme switch.",
-      stack: ["react", "react-router", "javascript", "tailwindcss"],
-      img: "/witw.svg",
-    },
+    // {
+    //   title: "Where in the world",
+    //   gitLink: "https://github.com/adex-hub/where-in-the-world",
+    //   liveLink: "https://where-in-the-world-ade.netlify.app/",
+    //   about:
+    //     "A fun tool for checking information about any country in the world such as the country’s native name, currency, population,  border countries etc. It features dynamic routing for each country and theme switch.",
+    //   stack: ["react", "react-router", "javascript", "tailwindcss"],
+    //   img: "/witw.svg",
+    // },
     // {
     //   title: "Yourtodo",
     //   gitLink: "https://github.com/adex-hub/Yourtodo",
@@ -48,15 +48,15 @@ export default function Works() {
     //   stack: ["react", "javascript", "figma", "sass"],
     //   img: "/todo.svg",
     // },
-    {
-      title: "Multi-step form",
-      gitLink: "https://github.com/adex-hub/multi-step-form-main",
-      liveLink: "https://ade-loremgaming.netlify.app/",
-      about:
-        "This site features a clean, user-friendly multi-step form for subscribing to a gaming service. Users input personal info, select a plan (monthly or yearly), choose add-ons (online service, larger storage, customizable profile), and review the summary before confirming.",
-      stack: ["html", "sass", "javascript", "ms clarity"],
-      img: "/multistep.svg",
-    },
+    // {
+    //   title: "Multi-step form",
+    //   gitLink: "https://github.com/adex-hub/multi-step-form-main",
+    //   liveLink: "https://ade-loremgaming.netlify.app/",
+    //   about:
+    //     "This site features a clean, user-friendly multi-step form for subscribing to a gaming service. Users input personal info, select a plan (monthly or yearly), choose add-ons (online service, larger storage, customizable profile), and review the summary before confirming.",
+    //   stack: ["html", "sass", "javascript", "ms clarity"],
+    //   img: "/multistep.svg",
+    // },
   ];
 
   const { ref, inView } = useInView({

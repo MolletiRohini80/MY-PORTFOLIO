@@ -7,32 +7,32 @@ const syne = Syne({ subsets: ["latin"] });
 
 const TimelineData = [
   {
-    companyImg: "/bluechip.svg",
-    jobTitle: "Software Engineer",
-    company: "Bluechip Technologies",
+    companyImg: "/Thublogo.png",
+    jobTitle: "Frontend Developer",
+    company: "Technical Hub",
     jobType: "Internship",
-    duration: "Mar 2024 - Sept 2024",
+    duration: "June 2024 - Aug 2024",
     stuffIDid: [
-      "Developed fully responsive sidebars for an API marketplace web app utilizing ChakraUI for context menus, mobile drawer menus, and modals to simplify adding, viewing, updating, and deleting data.",
-      "Built a reusable table component that reduced code by 15%, improving code efficiency and maintainability.",
-      "Collaborated with a senior frontend engineer to develop various application screens, streamlining development and collaboration using GitHub",
-      "Worked on a Learning Management System fixing bugs on the frontend while adding and improving features in tandem with the backend developer using Bootsrap and React Bootstrap to streamline component styling.",
-      "Integrated seven endpoints in the Role Based Access Control (RBAC) module of a Revenue Assurance application ensuring CRUD operations could be easily performed by the admin.",
-      "Developed HTML Templates for partner companies including the financial firm KPMG.",
+      "Developed an interactive e-commerce travel website where users can explore destinations based on states or seasons.",
+      "Implemented categorized travel recommendations, including top places, famous food, and best resorts for each location.",
+      "Integrated YouTube videos for travel references and Google Maps for easy navigation.",
+      "Designed a fully responsive and user-friendly UI using HTML, CSS, Bootstrap, and JavaScript.",
+      "Optimized website performance with smooth animations, efficient layouts, and fast-loading pages.",
+      "Gained hands-on experience in front-end development, UI/UX design, and responsive web development.",
     ],
   },
-  {
-    companyImg: "/nnpc.svg",
-    jobTitle: "Intern",
-    company: "NNPC",
-    jobType: "Internship",
-    duration: "July 2023 - Sept. 2023",
-    stuffIDid: [
-      "Came up with cross functional login & sign up page designs that are now integral parts of the tools used within the company.",
-      "Led a team of fellow interns to design various templates and UI components common in internal applications such as dashboards, notification tabs, multi-step forms, tables with pagination etc. while making very impactful contributions.",
-      "I also helped interns grasp the basics of design enabling them to make meaningful contributions.",
-    ],
-  },
+  // {
+  //   companyImg: "/nnpc.svg",
+  //   jobTitle: "Intern",
+  //   company: "NNPC",
+  //   jobType: "Internship",
+  //   duration: "July 2023 - Sept. 2023",
+  //   stuffIDid: [
+  //     "Came up with cross functional login & sign up page designs that are now integral parts of the tools used within the company.",
+  //     "Led a team of fellow interns to design various templates and UI components common in internal applications such as dashboards, notification tabs, multi-step forms, tables with pagination etc. while making very impactful contributions.",
+  //     "I also helped interns grasp the basics of design enabling them to make meaningful contributions.",
+  //   ],
+  // },
 ];
 
 export default function Timeline() {

@@ -14,10 +14,10 @@ export default function Footer() {
       id="footer"
       className="my-6 sm:my-8 text-sm sm:text-base lg:text-lg flex md:justify-between justify-center"
     >
-      <p>
-        <span className="text-xl sm:text-2xl">&copy;</span> {curYear} . ADEOLA
-        BADERO . ALL RIGHTS RESERVED
-      </p>
+      {/* <p>
+        <span className="text-xl sm:text-2xl">&copy;</span> {curYear} . MOLLETI
+        ROHINI . ALL RIGHTS RESERVED
+      </p> */}
       {/* <Link
         className="md:flex hidden items-center gap-1 leading-tight"
         href="#home"
