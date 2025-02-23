@@ -15,7 +15,7 @@ export default function Works() {
     {
       title: "Bus-Tracking Application",
       gitLink: "https://github.com/MolletiRohini80/BUS-IN-OUT.git",
-      liveLink: "https://offsetcomms.africa/",
+      // liveLink: "https://offsetcomms.africa/",
       about:
         "Bus tracking project is a real-time system built with ReactJS and Vite, designed to track bus arrivals and departures at your college gate. It includes a student count graph and a pie chart for data visualization. The project features a responsive design, optimized for various screen sizes, with smooth animations and a clean, scroll-free UI. It highlights your skills in full-stack development, responsive design, and data visualization.",
       stack: ["React", "JavaScript", "NodeJS", "ExpressJS","MERN"],
