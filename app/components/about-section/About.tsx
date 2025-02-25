@@ -117,7 +117,7 @@ export default function About() {
         whileHover={{ scale: 1.15 }}
       >
         <Link
-          href="https://drive.google.com/file/d/13ndUdKWTZGklAQYGzNmdAIXo4jUTLnf-/view?usp=sharing"
+          href="https://drive.google.com/file/d/1_hsDcRoLE_2N6jV76tQGMmXxPO-HjrtC/view?usp=sharing"
           target="_blank"
         >
           MY RÉSUMÉ 
